@@ -1,0 +1,37 @@
+Functional Source License, Version 1.1, MIT Future License
+(FSL-1.1-MIT)
+
+Copyright (c) 2026 MYGStat Contributors
+
+TERMS AND CONDITIONS
+
+1. Grant of License. Licensor grants you the world-wide, royalty-free, non-exclusive, non-transferable, non-sublicensable license under its intellectual property rights to use, copy, modify, display, and distribute the Software, and to prepare derivative works based on the Software, subject to the conditions in this License.
+
+2. Competing Use Prohibited. You may not make the Software available to third parties as a managed service, software-as-a-service, or commercial product that competes with the Software or any other product or service offered by Licensor using the Software, or circumvent, disable, or remove any license verification, feature gating, or paywall mechanism contained in the Software.
+
+3. Change Date and Change License. Two years from the date the Software was first published or made available to the public by Licensor (the "Change Date"), the license granted above will terminate, and Licensor grants you a license to use the Software under the MIT License, located below.
+
+4. Notices. You must reproduce this License, including copyright notice and this permission notice, in all copies or substantial portions of the Software.
+
+5. Disclaimer of Warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+--------------------------------------------------------------------------------
+CHANGE LICENSE: MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
